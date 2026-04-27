@@ -1,0 +1,7 @@
+project_id = "ahla-shabab-hr"
+
+[functions.admin-create-user]
+verify_jwt = true
+
+[functions.passkey-register]
+verify_jwt = true
